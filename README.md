@@ -5,6 +5,7 @@ Thanks to all the attendees of #Office365DevBootCamp 2018 in Bengaluru.  Here, w
 ## Session Presentations
 
 <i>(Links are getting updated...)</i>
+
 | Sl# | Speaker Name | Session Title | Presentation / Links |
 |:---:|:-----------|:---------|:------------|
 | 1 | Abhishek Purohit | Introduction to developing application for Office365. | <i>TBD</i> |

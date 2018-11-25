@@ -4,14 +4,15 @@ Thanks to all the attendees of #Office365DevBootCamp 2018 in Bengaluru.  Here, w
 
 ## Session Presentations
 
+<i>(Links are getting updated...)</i>
 | Sl# | Speaker Name | Session Title | Presentation / Links |
 |:---:|:-----------|:---------|:------------|
-| 1 | Abhishek Purohit | Introduction to developing application for Office365. <br/>SharePoint Online Event Handling using Web hooks and Azure Functions | <i>TBD</i> |
-| 2 |  Arunkumaran Varadharajan, Anjana Valsan, Kallu Sushma | Building modern conversations in Office365 with add-ins and actionable messages | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86rwUYPdTofQg74N3u  "PowerPoint on OneDrive")  |
-| 3 | Sathish Nadarajan | Power of Graph API & demo | [GitHub](https://github.com/ChendrayanV/Events-2018-2019/tree/master/SPSEvents-SEP2018  "Chen's Personal GitHub")  |
-| 4 | Vishrut Shukla | Immersive experiences on Microsoft Teams App Platform | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-sharepoint-hybrid  "Dipti's Personal SlideShare")  |
-| 5 |  Jayanthi & ShanthaKumar | Hands on Labs - Teams Bot | [SlideShare](https://www.slideshare.net/jasjitchopra/running-sharepoint-2016-in-azure-the-dos-and-the-donts "Jasjit's Personal SlideShare")  |
-| 6 | Manoj Mittal | How to Elevate SPFX solution using Custom Web API with SharePoint Online - Personalize/Customize your Modern Sites | [SlideShare](https://www.slideshare.net/kirtiprajapati/spfx-extensions-personalizecustomize-your-modern-sites "Kirti's Personal SlideShare")  |
+| 1 | Abhishek Purohit | Introduction to developing application for Office365. | <i>TBD</i> |
+| 2 |  Arunkumaran Varadharajan, Anjana Valsan, Kallu Sushma | Building modern conversations in Office365 with add-ins and actionable messages | [OneDrive](https://dev.office.com  "PowerPoint on OneDrive")  |
+| 3 | Sathish Nadarajan | Power of Graph API & demo | [GitHub](https://dev.office.com  "GitHub")  |
+| 4 | Vishrut Shukla | Immersive experiences on Microsoft Teams App Platform | [SlideShare](https://dev.office.com  "SlideShare")  |
+| 5 |  Jayanthi & ShanthaKumar | Hands on Labs - Teams Bot | [SlideShare](https://dev.office.com "SlideShare")  |
+| 6 | Manoj Mittal | How to Elevate SPFX solution using Custom Web API with SharePoint Online - Personalize/Customize your Modern Sites | [SlideShare](https://dev.office.com "SlideShare")  |
 
 
 ## Event Photos
@@ -28,7 +29,7 @@ The Global Office 365 Developer Bootcamp It is a free, one-day, hands-on trainin
 * List of all 2018 Global Office 365 Developer Bootcamps  [O365DevBootcamp](http://aka.ms/O365DevBootcamp "http://aka.ms/O365DevBootcamp")
 
 ## Organizers of Bangalore Bootcamp 2018
-
+<i>(Links are getting updated...)</i>
 * Narasima Perumal [Twitter](https://twitter.com/narasimaperumal "Twitter - Narasima Perumal") | [Facebook](https://www.facebook.com/narasima.perumal "Facebook - Narasima Perumal") | [Blog](https://www.linkedin.com "Blog - Narasima Perumal") | [LinkedIn](https://www.linkedin.com "LinkedIn - Narasima Perumal")
 
 * Ravikumar [Twitter](https://twitter.com/narasimaperumal "Twitter - Ravikumar") | [Facebook](https://www.facebook.com/narasima.perumal "Facebook - Ravikumar") | [Blog](https://www.linkedin.com "Blog - Ravikumar") | [LinkedIn](https://www.linkedin.com "LinkedIn - Ravikumar")

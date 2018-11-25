@@ -1,32 +1,44 @@
-Global Office 365 Developer Bootcamp 2018 (24-Nov-2018)
 # Global Office 365 Developer Bootcamp 2018 (24-Nov-2018)
 
-Thanks to all the attendees of #Office365DevBootCamp 2018 in Bengaluru.  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@SPBangalore](https://twitter.com/spbangalore "SharePoint Bangalore") for any further inputs (Hash tag #BlrO365DevBootCamp).
-
-## Welcome/Keynote Presentation
-
-Event Keynote - [SlideShare](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-opening-113042137  "Keynote")  
+Thanks to all the attendees of #Office365DevBootCamp 2018 in Bengaluru.  Here, we are sharing the Presentation links from all Speakers. Please reach out to Organizers for any queries.
 
 ## Session Presentations
-
-<i>Sorted by Speaker Name</i>
 
 | Sl# | Speaker Name | Session Title | Presentation / Links |
 |:---:|:-----------|:---------|:------------|
 | 1 | Abhishek Purohit | Introduction to developing application for Office365. <br/>SharePoint Online Event Handling using Web hooks and Azure Functions | <i>TBD</i> |
-| 2 | Bijay Kumar Sahoo | Workflow Development using Visual Studio 2017 for SharePoint Online | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86rwUYPdTofQg74N3u  "PowerPoint on OneDrive")  |
-| 3 | Chendrayan Venkatesan | Use PowerShell and Node.js to work with SharePoint data | [GitHub](https://github.com/ChendrayanV/Events-2018-2019/tree/master/SPSEvents-SEP2018  "Chen's Personal GitHub")  |
-| 4 | Dipti Chhatrapati | Being insightful is the only way to get on SharePoint Hybrid | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-sharepoint-hybrid  "Dipti's Personal SlideShare")  |
-| 5 | Jasjit Chopra | Running SharePoint 2016 in Azure - The Do's and the Dont's | [SlideShare](https://www.slideshare.net/jasjitchopra/running-sharepoint-2016-in-azure-the-dos-and-the-donts "Jasjit's Personal SlideShare")  |
-| 6 | Kirti Prajapati | SPFx Extensions - Personalize/Customize your Modern Sites | [SlideShare](https://www.slideshare.net/kirtiprajapati/spfx-extensions-personalizecustomize-your-modern-sites "Kirti's Personal SlideShare")  |
-| 7 | Manoj Mittal | Build Intelligent Azure Bot using Cognitive Services with SharePoint Online | [SlideShare](https://www.slideshare.net/ManojMittal12/build-intelligent-azure-bot-using-cognitive-services-with-sharepoint-online  "Manoj's Personal SlideShare")  |
-| 8 | Mitul Rana | Building Efficient eDiscovery and Compliance with SharePoint | [SlideShare](https://www.slideshare.net/mobile/mitul2020/building-efficient-ediscovery-and-compliance-with-sharepoint-and-o365   "Mitul's Personal SlideShare")  |
-| 9 | Nakkeeran Natarajan | Microsoft Flow and Custom Connectors for automating SharePoint processes | [SlideShare](https://www.slideshare.net/NakkeeranNatarajan/automating-sharepoint-processes-with-microsoft-flow-spsbangalore  "Nakkeeran's Personal SlideShare")  |
-| 10 | Suhail Jamaldeen | Make Business Decisions with SharePoint Online Data and Power BI | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86rwd6sQ3QB-fxQzSu  "PowerPoint on OneDrive")  |
-| 11 | Vignesh Ganesan / Jayanthi P | Overview of SharePoint Server 2019 | [SlideShare](https://www.slideshare.net/VigneshGanesanMCPMCI/sharepoint-saturday-bangalore-overview-of-sharepoint-server-2019/VigneshGanesanMCPMCI/sharepoint-saturday-bangalore-overview-of-sharepoint-server-2019 "Vignesh's Personal SlideShare")  |
+| 2 |  Arunkumaran Varadharajan, Anjana Valsan, Kallu Sushma | Building modern conversations in Office365 with add-ins and actionable messages | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86rwUYPdTofQg74N3u  "PowerPoint on OneDrive")  |
+| 3 | Sathish Nadarajan | Power of Graph API & demo | [GitHub](https://github.com/ChendrayanV/Events-2018-2019/tree/master/SPSEvents-SEP2018  "Chen's Personal GitHub")  |
+| 4 | Vishrut Shukla | Immersive experiences on Microsoft Teams App Platform | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-sharepoint-hybrid  "Dipti's Personal SlideShare")  |
+| 5 |  Jayanthi & ShanthaKumar | Hands on Labs - Teams Bot | [SlideShare](https://www.slideshare.net/jasjitchopra/running-sharepoint-2016-in-azure-the-dos-and-the-donts "Jasjit's Personal SlideShare")  |
+| 6 | Manoj Mittal | How to Elevate SPFX solution using Custom Web API with SharePoint Online - Personalize/Customize your Modern Sites | [SlideShare](https://www.slideshare.net/kirtiprajapati/spfx-extensions-personalizecustomize-your-modern-sites "Kirti's Personal SlideShare")  |
+
 
 ## Event Photos
 * Photo Album | [Facebook](https://www.facebook.com/media/set/?set=oa.2197286847180756/ "Facebook") 
+
+## About Global Office 365 Developer Bootcamp
+
+![Global Office 365 Developer Bootcamp](https://raw.githubusercontent.com/mstechcomin/office365dev-bootcamp-2018-blr/master/images/BootCamp-Logo-Light.png "Global Office 365 Developer Bootcamp Logo")
+
+The Global Office 365 Developer Bootcamp It is a free, one-day, hands-on training event led by Microsoft MVPs with support from Microsoft and local community leaders. Developers worldwide are invited to attend the bootcamp to learn the latest on Office 365 platform including Microsoft Graph, SharePoint Framework, Microsoft Teams, Office Add-ins, Connectors and Actionable Messages and apply what you learn to your future projects.
+ 
+* Announcement of 2018 Global Office 365 Developer Bootcamp [Blog](https://developer.microsoft.com/en-us/office/blogs/2018-global-office-365-developer-bootcamp/ "Office Dev Team Blog")
+
+* List of all 2018 Global Office 365 Developer Bootcamps  [O365DevBootcamp](http://aka.ms/O365DevBootcamp "http://aka.ms/O365DevBootcamp")
+
+## Organizers of Bangalore Bootcamp 2018
+
+* Narasima Perumal [Twitter](https://twitter.com/narasimaperumal "Twitter - Narasima Perumal") | [Facebook](https://www.facebook.com/narasima.perumal "Facebook - Narasima Perumal") | [Blog](https://www.linkedin.com "Blog - Narasima Perumal") | [LinkedIn](https://www.linkedin.com "LinkedIn - Narasima Perumal")
+
+* Ravikumar [Twitter](https://twitter.com/narasimaperumal "Twitter - Ravikumar") | [Facebook](https://www.facebook.com/narasima.perumal "Facebook - Ravikumar") | [Blog](https://www.linkedin.com "Blog - Ravikumar") | [LinkedIn](https://www.linkedin.com "LinkedIn - Ravikumar")
+
+
+* Sathish [Twitter](https://twitter.com/narasimaperumal "Twitter - Sathish") | [Facebook](https://www.facebook.com/narasima.perumal "Facebook - Sathish") | [Blog](https://www.linkedin.com "Blog - Sathish") | [LinkedIn](https://www.linkedin.com "LinkedIn - Sathish")
+
+* Karthikeyan [Twitter](https://twitter.com/narasimaperumal "Twitter - Karthikeyan") | [Facebook](https://www.facebook.com/narasima.perumal "Facebook - Karthikeyan") | [Blog](https://www.linkedin.com "Blog - Karthikeyan") | [LinkedIn](https://www.linkedin.com "LinkedIn - Karthikeyan")
+
+* Anbu Mani [Twitter](https://twitter.com/Anbu_Mani27 "Twitter - Anbu Mani") | [Facebook](https://www.facebook.com/AnbuMani27 "Facebook - Anbu Mani") | [Blog](https://www.linkedin.com "Blog - Anbu Mani") | [LinkedIn](https://www.linkedin.com "LinkedIn - Anbu Mani")
 
 ## SharePoint/Office365/Microsoft User Groups in Bangalore
 These are links to Microsoft Technology related User Groups that runs in-person / online meetups.
@@ -45,14 +57,3 @@ These are links to Microsoft Technology related User Groups that runs in-person 
 * SQL Bangalore | [Facebook](https://www.facebook.com/groups/SQLBangalore/   "Facebook")
 
 * DataPlatformGeeks | [Website](http://www.dataplatformgeeks.com/ "Website")
-
-## About Global Office 365 Developer Bootcamp
-
-The Global Office 365 Developer Bootcamp It is a free, one-day, hands-on training event led by Microsoft MVPs with support from Microsoft and local community leaders. Developers worldwide are invited to attend the bootcamp to learn the latest on Office 365 platform including Microsoft Graph, SharePoint Framework, Microsoft Teams, Office Add-ins, Connectors and Actionable Messages and apply what you learn to your future projects.
- 
-
-* Want to find out global SharePoint Saturday events? Visit [SPSEvents](http://www.spsevents.org/ "SharePoint Saturdays Home Page")
-
-* SPSBangalore Event Page [SPSBangalore](http://www.spsevents.org/city/Bangalore/Bangalore2018/ "SPSBangalore 01-Sep-2018")
-
-![alt text](https://github.com/mstechcomin/office365dev-bootcamp-2018-blr/raw/master/src/common/images/icon48.png "Global Office 365 Developer Bootcamp Logo")

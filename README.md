@@ -17,7 +17,7 @@ Thanks to all the attendees of #Office365DevBootCamp 2018 in Bengaluru.  Here, w
 
 
 ## Event Photos
-* Photo Album | [Facebook](https://www.facebook.com/media/set/?set=oa.2197286847180756/ "Facebook") 
+* Photo Album | [Facebook](https://www.facebook.com/media/set/?set=oa.2197286847180756 "Facebook") 
 
 ## About Global Office 365 Developer Bootcamp
 

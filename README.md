@@ -2,18 +2,20 @@
 
 Thanks to all the attendees of #Office365DevBootCamp 2018 in Bengaluru.  Here, we are sharing the Presentation links from all Speakers. Please reach out to Organizers for any queries.
 
-## Session Presentations
+Our special thanks to <b>Deepak Rajendran</b> and <b>Gayathri VN</b> for providing the venue and helping in smooth execution of this event.  
 
-<i>(Links are getting updated...)</i>
+
+
+## Session Presentations
 
 | Sl# | Speaker Name | Session Title | Presentation / Links |
 |:---:|:-----------|:---------|:------------|
 | 1 | Abhishek Purohit | Introduction to developing application for Office365. | <i>TBD</i> |
-| 2 |  Arunkumaran Varadharajan, Anjana Valsan, Kallu Sushma | Building modern conversations in Office365 with add-ins and actionable messages | [OneDrive](https://dev.office.com  "PowerPoint on OneDrive")  |
-| 3 | Sathish Nadarajan | Power of Graph API & demo | [GitHub](https://dev.office.com  "GitHub")  |
-| 4 | Vishrut Shukla | Immersive experiences on Microsoft Teams App Platform | [SlideShare](https://dev.office.com  "SlideShare")  |
-| 5 |  Jayanthi & ShanthaKumar | Hands on Labs - Teams Bot | [SlideShare](https://dev.office.com "SlideShare")  |
-| 6 | Manoj Mittal | How to Elevate SPFX solution using Custom Web API with SharePoint Online - Personalize/Customize your Modern Sites | [SlideShare](https://dev.office.com "SlideShare")  |
+| 2 |  Arunkumaran Varadharajan, Anjana Valsan, Kallu Sushma | Building modern conversations in Office365 with add-ins and actionable messages | [SlideShare](https://www.slideshare.net/mstechcomin/building-modern-conversations-in-office365-with-addins-and-actionable-messages-arun-varadharajan-kallu-sushma-anjana-valsan-2018-global-office-365-developer-bootcamp-bangalore  "SlideShare")  |
+| 3 | Sathish Nadarajan | Power of Graph API & demo | [SlideShare](https://www.slideshare.net/mstechcomin/power-of-graph-api-sathish-nadarajan-2018-global-office-365-developer-bootcamp-bangalore  "SlideShare")  |
+| 4 | Vishrut Shukla | Immersive experiences on Microsoft Teams App Platform | [SlideShare](https://www.slideshare.net/mstechcomin/immersive-experiences-on-microsoft-teams-app-platform-vishrut-shukla-2018-global-office-365-developer-bootcamp-bangalore  "SlideShare")  |
+| 5 |  Jayanthi & ShanthaKumar | Hands on Labs - Teams Bot | [SlideShare](https://www.slideshare.net/mstechcomin/ms-teams-bot-hands-on-lab-jayanthi-shanthakumar-2018-global-office-365-developer-bootcamp-bangalore "SlideShare")  |
+| 6 | Manoj Mittal | How to Elevate SPFX solution using Custom Web API with SharePoint Online - Personalize/Customize your Modern Sites | [SlideShare](https://www.slideshare.net/mstechcomin/how-to-elevate-spfx-solution-manoj-mittal "SlideShare")  |
 
 
 ## Event Photos

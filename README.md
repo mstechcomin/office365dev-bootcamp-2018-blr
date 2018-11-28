@@ -30,17 +30,16 @@ The Global Office 365 Developer Bootcamp It is a free, one-day, hands-on trainin
 * List of all 2018 Global Office 365 Developer Bootcamps  [O365DevBootcamp](http://aka.ms/O365DevBootcamp "http://aka.ms/O365DevBootcamp")
 
 ## Organizers of Bangalore Bootcamp 2018
-<i>(Links are getting updated...)</i>
-* Narasima Perumal [Twitter](https://twitter.com/narasimaperumal "Twitter - Narasima Perumal") | [Facebook](https://www.facebook.com/narasima.perumal "Facebook - Narasima Perumal") | [Blog](https://www.linkedin.com "Blog - Narasima Perumal") | [LinkedIn](https://www.linkedin.com "LinkedIn - Narasima Perumal")
 
-* Ravikumar [Twitter](https://twitter.com/narasimaperumal "Twitter - Ravikumar") | [Facebook](https://www.facebook.com/narasima.perumal "Facebook - Ravikumar") | [Blog](https://www.linkedin.com "Blog - Ravikumar") | [LinkedIn](https://www.linkedin.com "LinkedIn - Ravikumar")
+* Narasima Perumal [Twitter](https://twitter.com/narasimaperumal "Twitter - Narasima Perumal") | [Facebook](https://www.facebook.com/narasima.perumal "Facebook - Narasima Perumal") | [Website](https://www.jijitechnologies.com "Website - Narasima Perumal") | [LinkedIn](https://www.linkedin.com/in/narasimaperumal  "LinkedIn - Narasima Perumal")
+
+* Ravikumar [Twitter](https://twitter.com/ShakthiRavi "Twitter - Ravikumar") | [Facebook](https://www.facebook.com/profile.php?id=100001778126564 "Facebook - Ravikumar") | [Blog](https://www.anywherexchange.com "Blog - Ravikumar") | [LinkedIn](https://www.linkedin.com/in/ravikumar-sathyamurthy "LinkedIn - Ravikumar")
 
 
-* Sathish [Twitter](https://twitter.com/narasimaperumal "Twitter - Sathish") | [Facebook](https://www.facebook.com/narasima.perumal "Facebook - Sathish") | [Blog](https://www.linkedin.com "Blog - Sathish") | [LinkedIn](https://www.linkedin.com "LinkedIn - Sathish")
+* Anbu Mani [Twitter](https://twitter.com/Anbu_Mani27 "Twitter - Anbu Mani") | [Facebook](https://www.facebook.com/AnbuMani27 "Facebook - Anbu Mani") | [Blog](https://xmonkeys360.com  "Blog - Anbu Mani") | [LinkedIn](https://www.linkedin.com/in/anbumani27 "LinkedIn - Anbu Mani")
 
-* Karthikeyan [Twitter](https://twitter.com/narasimaperumal "Twitter - Karthikeyan") | [Facebook](https://www.facebook.com/narasima.perumal "Facebook - Karthikeyan") | [Blog](https://www.linkedin.com "Blog - Karthikeyan") | [LinkedIn](https://www.linkedin.com "LinkedIn - Karthikeyan")
+* Sathish [Twitter](https://twitter.com/contactsathish "Twitter - Sathish") | [Facebook](https://www.facebook.com/nadarajan.sathish "Facebook - Sathish") | [Blog](http://www.sharepointpals.com/ "Blog - Sathish") | [LinkedIn](https://www.linkedin.com/in/sathishnadarajan "LinkedIn - Sathish")
 
-* Anbu Mani [Twitter](https://twitter.com/Anbu_Mani27 "Twitter - Anbu Mani") | [Facebook](https://www.facebook.com/AnbuMani27 "Facebook - Anbu Mani") | [Blog](https://www.linkedin.com "Blog - Anbu Mani") | [LinkedIn](https://www.linkedin.com "LinkedIn - Anbu Mani")
 
 ## SharePoint/Office365/Microsoft User Groups in Bangalore
 These are links to Microsoft Technology related User Groups that runs in-person / online meetups.

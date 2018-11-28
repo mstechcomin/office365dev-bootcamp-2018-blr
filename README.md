@@ -1,4 +1,4 @@
-# Global Office 365 Developer Bootcamp 2018 (24-Nov-2018)
+# Global Office 365 Developer Bootcamp 2018 (Bangalore 24-Nov-2018)
 
 Thanks to all the attendees of #Office365DevBootCamp 2018 in Bengaluru.  Here, we are sharing the Presentation links from all Speakers. Please reach out to Organizers for any queries.
 

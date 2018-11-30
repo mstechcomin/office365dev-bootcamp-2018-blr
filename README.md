@@ -8,6 +8,8 @@ Our special thanks to <b>Deepak Rajendran</b> and <b>Gayathri VN</b> for providi
 
 ## Session Presentations
 
+<i><span style="color:orange"> <em>Update (30-Nov-2018 13:50 IST)</em> </span> : Issues reported with SlideShare links. Will fix soon.</i>
+
 | Sl# | Speaker Name | Session Title | Presentation / Links |
 |:---:|:-----------|:---------|:------------|
 | 1 | Abhishek Purohit | Introduction to developing application for Office365. | <i>TBD</i> |
